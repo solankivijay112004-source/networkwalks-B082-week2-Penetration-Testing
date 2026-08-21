@@ -23,7 +23,7 @@ A hands-on penetration testing practical combining **passive footprinting** agai
 | **Targets** |1. `networkwalks.com` (written permission secured) <br> 2. Own IP Address (`0.0.0.0`) |
 | **Phases Covered** | Phase 1: Reconnaissance & Footprinting<br>Phase 2: Scanning & Network Discovery |
 
-> ⚠️ **Authorization Notice:** All activities were performed only against systems I own, have explicit written permission to test, or on my own IP Addresse strictly for educational purposes. No exploitation, intrusion, or unauthorized access was performed at any stage.
+> ⚠️ **Authorization Notice:** All activities were performed only against systems. I have explicit written permission to test, or on my own IP Addresse strictly for educational purposes. No exploitation, intrusion, or unauthorized access was performed at any stage.
 
 ---
 
