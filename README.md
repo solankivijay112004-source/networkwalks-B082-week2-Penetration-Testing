@@ -2,7 +2,7 @@
 
 # 🔐 Cybersecurity Internship – Week 02
 
-### Footprinting & Network Scanning | Passive Reconnaissance + Active LAN Scanning
+### Footprinting & Network Scanning 
 
 ![Program](https://img.shields.io/badge/program-Networkwalks%20B082-blue)
 ![Scope](https://img.shields.io/badge/scope-authorized%20only-important)
